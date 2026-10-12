@@ -1,0 +1,6 @@
+{
+  "name": "BhuSetu 3D",
+  "description": "3D ULPIN Generation & Vertical Property Mapping System. Connect 2D cadastral land parcels with 3D vertical buildings, floors, and unit identities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
